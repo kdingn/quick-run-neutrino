@@ -5,6 +5,9 @@
 
 そこで python で実行できると楽だな，と考え作成した notebook.
 
-NEUTRINO の install が済んでいれば path を指定するだけで実行が可能．
+NEUTRINO の Install が済んでいれば path を指定するだけで実行が可能．
 
-備忘録．
+## 使い方
+1. notebook の 2 セル目を利用環境の NEUTRINO ディレクトリに変更
+2. Run All で処理完了を待つ
+3. output の wav ファイルを確認する
