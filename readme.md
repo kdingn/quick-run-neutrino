@@ -1,4 +1,4 @@
-# neutrino_run_notebook
+# quick-run-neutrino
 
 とんでもなく素晴らしいAI歌唱ソフト[NEUTRINO](https://studio-neutrino.com/)，
 その実行には .bat ファイルを直接編集する必要があり意外と面倒...
